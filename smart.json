@@ -1,0 +1,9 @@
+{
+  "name": "accounts-ui-zurb",
+  "description": "Meteor Accounts UI package styled with Zurb",
+  "homepage": "https://github.com/donskifarrell/meteor-accounts-ui-zurb",
+  "author": "Donal Farrell <http://www.donalfarrell.com/>",
+  "version": "0.0.1",
+  "git": "https://github.com/donskifarrell/meteor-accounts-ui-zurb",
+  "packages": {}
+}
