@@ -1,3 +1,8 @@
+# This is no longer maintained!
+
+Sorry, time constraints have stopped from keeping track of this package. I recommend you look for alternatives on atmospherejs.
+
+
 # Accounts UI Zurb for Meteor
 
 Re-styles the Meteor Accounts UI package to use the Zurb Foundation 5 framework.
